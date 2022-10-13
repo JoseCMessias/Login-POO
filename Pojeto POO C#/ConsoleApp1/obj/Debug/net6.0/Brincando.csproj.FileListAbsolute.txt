@@ -1,0 +1,30 @@
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Brincando.exe
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Brincando.deps.json
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Brincando.runtimeconfig.json
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Brincando.dll
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Brincando.pdb
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Brincando.csproj.AssemblyReference.cache
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Brincando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Brincando.AssemblyInfoInputs.cache
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Brincando.AssemblyInfo.cs
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Brincando.csproj.CoreCompileInputs.cache
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Brincando.dll
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Brincando.dll
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Brincando.pdb
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Brincando.genruntimeconfig.cache
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Brincando.dll
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Pojeto de Login\ConsoleApp1\bin\Debug\net6.0\Brincando.exe
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Pojeto de Login\ConsoleApp1\bin\Debug\net6.0\Brincando.deps.json
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Pojeto de Login\ConsoleApp1\bin\Debug\net6.0\Brincando.runtimeconfig.json
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Pojeto de Login\ConsoleApp1\bin\Debug\net6.0\Brincando.dll
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Pojeto de Login\ConsoleApp1\bin\Debug\net6.0\Brincando.pdb
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Pojeto de Login\ConsoleApp1\obj\Debug\net6.0\Brincando.csproj.AssemblyReference.cache
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Pojeto de Login\ConsoleApp1\obj\Debug\net6.0\Brincando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Pojeto de Login\ConsoleApp1\obj\Debug\net6.0\Brincando.AssemblyInfoInputs.cache
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Pojeto de Login\ConsoleApp1\obj\Debug\net6.0\Brincando.AssemblyInfo.cs
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Pojeto de Login\ConsoleApp1\obj\Debug\net6.0\Brincando.csproj.CoreCompileInputs.cache
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Pojeto de Login\ConsoleApp1\obj\Debug\net6.0\Brincando.dll
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Pojeto de Login\ConsoleApp1\obj\Debug\net6.0\refint\Brincando.dll
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Pojeto de Login\ConsoleApp1\obj\Debug\net6.0\Brincando.pdb
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Pojeto de Login\ConsoleApp1\obj\Debug\net6.0\Brincando.genruntimeconfig.cache
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Pojeto de Login\ConsoleApp1\obj\Debug\net6.0\ref\Brincando.dll

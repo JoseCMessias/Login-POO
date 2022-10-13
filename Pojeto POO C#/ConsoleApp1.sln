@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Brincando", "ConsoleApp1\Brincando.csproj", "{204028B3-F1F6-4EBC-8933-547817F63133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{204028B3-F1F6-4EBC-8933-547817F63133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204028B3-F1F6-4EBC-8933-547817F63133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204028B3-F1F6-4EBC-8933-547817F63133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204028B3-F1F6-4EBC-8933-547817F63133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {446C3AAE-552A-45BE-B8F7-D5BD15512C91}
+	EndGlobalSection
+EndGlobal
